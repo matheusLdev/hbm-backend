@@ -38,4 +38,4 @@ npm run start:dev
 yarn start:dev
 ```
 
-A aplicação estará disponível em http://localhost:3333.
+A aplicação está disponível em [https://hbm-backend-production.up.railway.app/](https://hbm-backend-production.up.railway.app/).
